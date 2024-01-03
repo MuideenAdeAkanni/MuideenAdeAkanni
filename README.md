@@ -19,3 +19,5 @@ My expertise lies in leveraging positive analytical thinking, problem-solving or
   
   <img src="https://github.com/princeadeakanni/princeadeakanni/blob/main/Model.png" width="620" />
 
+![Data Analyst](https://github.com/princeadeakanni/WeCare-Attrition/blob/main/My%20banner.png)
+
